@@ -1,8 +1,12 @@
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
 int main()
 {
-	int a[10001][10001];
+	int a [100000] = {0};
+	cout << a[0];
 }
+
+
