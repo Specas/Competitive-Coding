@@ -6,7 +6,7 @@ using namespace std;
 
 double box(int, int);
 
-// The functio box calculates the max box volume possible
+// The function box calculates the max box volume possible
 
 double box(int p, int s)
 {
