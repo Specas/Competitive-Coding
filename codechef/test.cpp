@@ -9,9 +9,13 @@ using namespace std;
 int main()
 {
 	
-	int a[100000][100000];
-	a[0][0] = 9;
-	cout << a[0][0];
+	vector <int> a[100];
+	a[0].push_back(0);
+	
+	size_t aa = 100000000;
+	cout << aa;
+	
+	int c[10000000];
 	
 }
 
