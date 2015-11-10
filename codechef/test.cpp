@@ -3,20 +3,14 @@
 #include <string>
 #include <cstdio>
 #include <math.h>
+#include <limits.h>
 
 using namespace std;
 
 int main()
 {
-	
-	vector <int> a[100];
-	a[0].push_back(0);
-	
-	size_t aa = 100000000;
-	cout << aa;
-	
-	int c[10000000];
-	
+	long long int a = pow(2, 60);
+	cout << a;
 }
 
 
